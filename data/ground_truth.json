@@ -1,0 +1,16 @@
+[
+    {
+      "query": "What are the side effects of aspirin?",
+      "answer": "Common side effects include nausea, vomiting, and gastrointestinal bleeding.",
+      "source_docs": [
+        "Aspirin may cause gastrointestinal irritation and bleeding."
+      ]
+    },
+    {
+      "query": "What is hypertension?",
+      "answer": "Hypertension is high blood pressure.",
+      "source_docs": [
+        "Hypertension refers to persistently elevated blood pressure levels."
+      ]
+    }
+  ]
